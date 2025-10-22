@@ -1,6 +1,10 @@
 <div align="center">
   
-  ![](https://files.catbox.moe/xva5bg.png)
+  <p align="center">
+  <img src="https://files.catbox.moe/xva5bg.png" 
+     width="780" 
+     height="490" />
+</p>
 
 ![Bioplankton](https://komarev.com/ghpvc/?username=itz-skeetXD662&color=FF75A4)
 
@@ -14,5 +18,11 @@
   </tr>
 </table>
 
-![](https://files.catbox.moe/fgt9sb.png)  
+<div align="center">
+  
+  <p align="center">
+  <img src="https://files.catbox.moe/fgt9sb.png" 
+     width="780" 
+     height="490" />
+</p>
  </div>
