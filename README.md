@@ -9,7 +9,7 @@
 ![Bioplankton](https://komarev.com/ghpvc/?username=itz-skeetXD662&color=FF75A4)
 <p align="center">
   <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31t6iahnmjtxuosnnwfe3dhwkcsa&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31t6iahnmjtxuosnnwfe3dhwkcsa&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=ff00c8&bar_color_cover=false" 
-     width="550" 
+     width="400" 
      height="500" />
 </p>
 <table width="100">
