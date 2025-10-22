@@ -1,3 +1,4 @@
+<!-- Feel free to use any of this code, but i barely know what im doing zo dont expect a lot of thiz to work :pp -->
 <div align="center">
   
   <p align="center">
@@ -5,6 +6,7 @@
      width="780" 
      height="490" />
   </p>
+ <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=60&pause=1000&color=0406BD&center=true&vCenter=true&width=1000&lines=i+mean+this,+i'm+okay!+(trust+me)" alt="Typing SVG" />
     
 </p>
 <table width="100">
@@ -17,7 +19,7 @@
      width="100" 
      height="500" </p>
       <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31t6iahnmjtxuosnnwfe3dhwkcsa&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31t6iahnmjtxuosnnwfe3dhwkcsa&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=ff00c8&bar_color_cover=false" 
+  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31t6iahnmjtxuosnnwfe3dhwkcsa&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=ff00c8&bar_color_cover=false" 
      width="400" 
      height="500" </p>
         
@@ -36,6 +38,8 @@
   </tr>
 </table>
 
+![](https://files.catbox.moe/ue4y4o.jpg) ![](https://files.catbox.moe/sftw7p.gifv) ![](https://files.catbox.moe/r53l0j.gif) ![](https://files.catbox.moe/75exrb.gif)
+
 <div align="center">
   
   <p align="center">
@@ -44,5 +48,3 @@
      height="490" />
 </p>
  </div>
-
---> Feel free to use any of this code, but i barely know what im doing zo dont expect a lot of thiz to work :pp <--
